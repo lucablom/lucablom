@@ -1,6 +1,6 @@
 ## Hello, Luca here! 
 ### Automation | PLC Control Systems | Building automation
-![Automation | PLC Control Systems](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Automation | PLC Control Systems]
 
 Sharing samples and knowledge about Beckhoff TwinCAT 3. Building automation, diagnostics, IoT, Third-party tools, and other good stuff! 
 
@@ -10,4 +10,4 @@ Sharing samples and knowledge about Beckhoff TwinCAT 3. Building automation, dia
 - External tools for TC3 development.
 - Strengthening the community for TwinCAT 3. 
 
-
+(https://raw.githubusercontent.com/lucablom/lucablom/main/bhf_twincat_2013.png)
