@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Luca</h1>
 <h3 align="center">Sharing knowlage in Beckhoff Automation</h3>
 
+(img align="right" alt="Coding" width="400" src="https://files.hoechsmann.com/lexikon/img/300x200/bhf_twincat_2013.png")
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucablom&label=Profile%20views&color=0e75b6&style=flat" alt="lucablom" /> </p>
 
 <h3 align="left">Connect with me:</h3>
