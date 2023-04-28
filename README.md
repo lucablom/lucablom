@@ -1,5 +1,5 @@
 ## Hello, Luca here! 
-### Automation | PLC Control Systems | Building automation
+### Automation | PLC Control Systems | Building automation | IoT | Datalayers | Data interface transformation
 Sharing samples and knowledge about Beckhoff TwinCAT 3. Building automation, diagnostics, IoT, Third-party tools, and other good stuff! 
 
 #### I’m currently working on:
