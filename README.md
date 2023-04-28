@@ -7,5 +7,6 @@ Sharing samples and knowledge about Beckhoff TwinCAT 3. Building automation, dia
 - Integrating TC3 functions into building automation.
 - External tools for TC3 development.
 - Strengthening the community for TwinCAT 3. 
+- IoT Projects including Node-Red and MS SQL
 
 ![Automation | PLC Control Systems](https://raw.githubusercontent.com/lucablom/lucablom/main/bhf_twincat_2013.png)
