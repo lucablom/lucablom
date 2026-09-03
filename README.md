@@ -8,7 +8,7 @@ Sharing samples and knowledge about Beckhoff TwinCAT 3. Building automation, dia
 - External tools for TC3 development.
 - Strengthening the community for TwinCAT 3. 
 - IoT Projects including Node-Red, MS SQL and Mongo DB
-- Modbus, BACnet, OPC-UA, TwinSAFE
+- Modbus, BACnet, OPC-UA, EtherCAT, TwinSAFE
 
 
 Contact: luca@automaw.se
